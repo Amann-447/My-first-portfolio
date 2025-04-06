@@ -1,4 +1,4 @@
 # My-first-portfolio
 Dynamic Porfolio
 <br>
-Author - Aman Prajapati
+Author - Aman (BCA Student)Prajapati
